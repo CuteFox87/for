@@ -20,3 +20,6 @@ https://ithelp.ithome.com.tw/articles/10279849
 
 ## wordlists
 https://github.com/emadshanab/WordLists-20111129
+
+## dirb 
+https://ithelp.ithome.com.tw/articles/10275958
